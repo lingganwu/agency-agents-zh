@@ -2,9 +2,9 @@
 
 🌐 **简体中文** | [繁體中文](README.zh-TW.md) | [English (upstream)](https://github.com/msitarzewski/agency-agents)
 
-> **268 个即插即用的 AI 专家角色** — 覆盖工程、设计、营销、产品、游戏、安全、GIS、金融等 20 个部门。不是通用提示词模板，每个智能体都有独立的人设、专业流程和可交付成果。支持 Claude Code / Cursor / Copilot 等 18 种 AI 编程工具。
+> **276 个即插即用的 AI 专家角色** — 覆盖公司经营（CEO/CTO/CMO/COO/CPO/CFO）、工程、设计、营销、产品、游戏、安全、GIS、金融等 20 个部门。不是通用提示词模板，每个智能体都有独立的人设、专业流程和可交付成果。支持 Claude Code / Cursor / Copilot 等 18 种 AI 编程工具。
 
-[agency-agents](https://github.com/msitarzewski/agency-agents) 的中文社区版。在完整翻译上游的基础上，新增了 50 个中国市场原创智能体（小红书、抖音、微信、B站、飞书、钉钉等平台运营，以及跨境电商、政务ToG、医疗合规、Qt 工业上位机、机械设计、畜禽养殖档案核对等垂直领域）。
+[agency-agents](https://github.com/msitarzewski/agency-agents) 的中文社区版。在完整翻译上游的基础上，新增了 63 个中国市场原创智能体（小红书、抖音、微信、B站、飞书、钉钉等平台运营，以及跨境电商、政务ToG、医疗合规、Qt 工业上位机、机械设计、畜禽养殖档案核对等垂直领域）。
 
 想更好地用起来，或想给团队打造统一的智能体工作台？[下载桌面客户端](https://github.com/jnMetaCode/agency-orchestrator/releases/latest)（原生 App，免装 Node，macOS / Windows / Linux），或在线体验 [ao.aiolaola.com/experts](https://ao.aiolaola.com/experts)。
 
@@ -20,9 +20,9 @@
 
 | 🤖 AI 智能体 | 🌏 英文版翻译 | 🇨🇳 中国市场原创 | 🧠 支持工具 | 🏢 部门 |
 |:---:|:---:|:---:|:---:|:---:|
-| **268** | **215** | **53** | **18 种** | **20 个** |
+| **276** | **213** | **63** | **18 种** | **20 个** |
 
-> 📖 **官方配套课程** → [AI 专家团队实战](https://aiolaola.com/course/ai-agency?utm_source=github&utm_campaign=agents)（33 节，免费）：手把手把这仓 268 位专家用成一支团队——单兵点名、自动组队、一人公司全流程，桌面端零代码教学。另有 [从零学会 AI 编程](https://aiolaola.com/?utm_source=github&utm_campaign=agents)（180 节）＋ [从零构建 AI 智能体](https://aiolaola.com/course/ai-agent?utm_source=github&utm_campaign=agents)（40 节）
+> 📖 **官方配套课程** → [AI 专家团队实战](https://aiolaola.com/course/ai-agency?utm_source=github&utm_campaign=agents)（33 节，免费）：手把手把这仓 276 位专家用成一支团队——单兵点名、自动组队、一人公司全流程，桌面端零代码教学。另有 [从零学会 AI 编程](https://aiolaola.com/?utm_source=github&utm_campaign=agents)（180 节）＋ [从零构建 AI 智能体](https://aiolaola.com/course/ai-agent?utm_source=github&utm_campaign=agents)（40 节）
 >
 > 🌍 Also available in [English](https://aiolaola.com/en?utm_source=github&utm_campaign=agents) · [日本語](https://aiolaola.com/ja?utm_source=github&utm_campaign=agents) · [Español](https://aiolaola.com/es?utm_source=github&utm_campaign=agents) · [한국어](https://aiolaola.com/ko?utm_source=github&utm_campaign=agents) · [繁體中文](https://aiolaola.com/zh-Hant?utm_source=github&utm_campaign=agents)
 
@@ -76,13 +76,13 @@
 <tr>
 <td width="25%">
   <a href="https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh">
-    <img src="assets/sponsor-volcengine.jpeg" alt="火山引擎 — 豆包大模型限时 5 折起，编程模型套餐 2.5 折订阅，支持 Kimi-K2.7、GLM-5.2 等主流模型" width="100%">
+    <img src="assets/sponsor-volcengine.jpeg" alt="火山引擎 — 火山方舟 Agent/Coding Plan 国模套餐首购 9.9 元起，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、豆包等主流模型" width="100%">
   </a>
 </td>
 <td width="75%" valign="middle">
 
-感谢 [火山引擎](https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh) 赞助了本项目！火山引擎AI巅峰盛惠来袭！豆包大模型限时5折起，19元即可入手约440万Tokens文本模型，新客首单再享AI统一节省计划。从文本生成、图像创作到视频合成、语音复刻，全模态AI能力一站式配齐。开发者专属编程模型套餐2.5折订阅，支持Kimi-K2.7、GLM-5.2等主流模型。
-🎁 **[注册](https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh)即领2500万Tokens，立即访问[火山引擎活动页面](https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh)抢购。**
+感谢 [字节火山引擎](https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh) 赞助了本项目！火山方舟 Agent/Coding Plan 国模套餐首购 9.9 元起，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、豆包等主流模型，统一 API，适配编码与智能体开发。
+🎁 **注册即免费领 2500 万 Token，[立即前往火山引擎活动页面](https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh)。**
 
 </td>
 </tr>
@@ -128,6 +128,36 @@
 <td width="75%" valign="middle">
 
 感谢[胜算云](https://www.shengsuanyun.com/?from=CH_QKH696UI)对本项目的赞助！胜算云是面向 AI 原生团队的模型 API 聚合平台，汇集 Claude、ChatGPT、Gemini 等海内外大语言模型及多媒体模型，支持统一接入与按量调用。平台坚持合规 API 服务，杜绝逆向工程和资源稀释。此外平台提供企业级定制网关，包括团队成本与权限管理、智能路由、安全防护及 BYOK 密钥托管，并提供发票服务。🎁 **新用户通过[此链接](https://www.shengsuanyun.com/?from=CH_QKH696UI)注册，即可领取 5 元 Token 体验额度！**
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="25%">
+  <a href="https://go.apimart.ai/gh-agency-agents-zh">
+    <img src="assets/sponsor-apimart.jpeg" alt="APIMart — 专注 AI 图片/视频生成的低价 API 平台，GPT-Image-2 低至 $0.006/张，图片与视频共用一套异步 API" width="100%">
+  </a>
+</td>
+<td width="75%" valign="middle">
+
+感谢 [APIMart](https://go.apimart.ai/gh-agency-agents-zh) 赞助了本项目！APIMart 是专注 AI 图片/视频生成的低价 API 平台，GPT-Image-2 低至 $0.006/张，1 美元可出图 160+ 张。图片、视频共用一套异步 API，提交任务拿 ID、轮询或回调取结果，跑批万张不超时、换模型不改代码。按量付费、无月费。🎁 **通过[此链接](https://go.apimart.ai/gh-agency-agents-zh)注册即可开用！**
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="25%">
+  <a href="https://metaso.cn/minimax-h3/?s=gt533367">
+    <img src="assets/sponsor-metaso.jpeg" alt="秘塔科技 — 高性价比 MiniMax H3 视频生成 API 服务，768P 0.09 元/秒、2K 0.15 元/秒，兼容 OpenAI 协议、支持 ComfyUI" width="100%">
+  </a>
+</td>
+<td width="75%" valign="middle">
+
+感谢[秘塔科技](https://metaso.cn/minimax-h3/?s=gt533367)赞助了本项目！秘塔科技提供高性价比的 MiniMax H3 视频生成 API 服务，适合漫剧、营销视频及批量视频生成：768P 低至 0.09 元/秒、2K 0.15 元/秒，原生 2K 画质，支持音画同步。API 兼容 OpenAI 协议，支持 ComfyUI，无需自行部署模型和 GPU，开箱即用。🎁 **通过[此链接](https://metaso.cn/minimax-h3/?s=gt533367)注册，即可享受赠送额度及专属优惠！**
 
 </td>
 </tr>
@@ -233,6 +263,22 @@ cp -r marketing/*.md ~/.claude/agents/
 
 ## 智能体阵容
 
+### 🏢 公司经营部
+
+一个人的公司也有高管层——定方向、做取舍、对结果负责。
+
+| 智能体 | 专长 | 适用场景 |
+|--------|------|----------|
+| [首席执行官 CEO](company/chief-executive-officer.md) ⭐ | 战略方向、资源配置、组织节奏、对外叙事 | 定方向、做重大取舍、把愿景翻成优先级 |
+| [首席技术官 CTO](company/chief-technology-officer.md) ⭐ | 技术路线、架构决策、研发组织、技术债 | 选型评审、技术债取舍、研发效能 |
+| [首席产品官 CPO](company/chief-product-officer.md) ⭐ | 产品战略、路线图取舍、产品组织 | 需求裁决、路线图排期、产品复盘 |
+| [首席营销官 CMO](company/chief-marketing-officer.md) ⭐ | 定位、渠道组合、营销预算、品牌资产 | 增长打法、预算分配、品牌建设 |
+| [首席运营官 COO](company/chief-operating-officer.md) ⭐ | 流程、指标、执行节奏 | 把战略落成 SOP、消灭组织摩擦 |
+| [首席财务官 CFO](company/chief-financial-officer.md) | 资本配置、资金运营、财务规划、投资者关系 | 融资、预算、董事会汇报 |
+| [幕僚长](company/chief-of-staff.md) | 战略运营、跨部门协调、OKR 追踪 | 高管例会、组织变革推进 |
+
+> 想开一次"高管例会"？把这几位放进同一个工作流，让他们分别从战略/技术/产品/增长/运营/财务视角过同一个议题——这正是 [Agency Orchestrator](https://github.com/jnMetaCode/agency-orchestrator) 的用法。
+
 ### 🛠️ 工程部
 
 构建未来，一个 commit 一个脚印。
@@ -284,6 +330,7 @@ cp -r marketing/*.md ~/.claude/agents/
 | [UX 架构师](design/design-ux-architect.md) | 信息架构、交互设计、导航系统 | 复杂产品的 UX 架构 |
 | [品牌守护者](design/design-brand-guardian.md) | 品牌标识、一致性、定位 | 品牌策略、视觉规范 |
 | [图像提示词工程师](design/design-image-prompt-engineer.md) | AI 图像生成、提示词优化 | Midjourney/DALL-E 出图 |
+| [视频提示词工程师](design/design-video-prompt-engineer.md) ⭐ | 文生视频提示词、5 段式结构、运镜与负面词 | Sora / 可灵 / Veo / Seedance 出片 |
 | [视觉叙事师](design/design-visual-storyteller.md) | 数据可视化、视觉叙事 | 信息图、演示文稿 |
 | [趣味注入师](design/design-whimsy-injector.md) | 微交互、彩蛋、趣味元素 | 产品细节体验提升 |
 | [包容性视觉专家](design/design-inclusive-visuals-specialist.md) | 多元化视觉、无障碍设计 | 包容性设计、全球化视觉 |
@@ -936,7 +983,7 @@ NousResearch 的开源 AI 智能体框架，支持技能系统、子代理编排
 > ./scripts/install.sh --tool hermes --category engineering --category design
 > ```
 >
-> 可选分类：`academic, blender, design, engineering, finance, game-development, godot, hr, legal, marketing, paid-media, product, project-management, roblox-studio, sales, spatial-computing, specialized, supply-chain, support, testing, unity, unreal-engine`。
+> 可选分类：`academic, blender, company, design, engineering, finance, game-development, godot, hr, legal, marketing, paid-media, product, project-management, roblox-studio, sales, spatial-computing, specialized, supply-chain, support, testing, unity, unreal-engine`。
 >
 > Hermes CLI 本身没有此限制，全量安装可以继续使用。
 </details>
@@ -990,7 +1037,7 @@ DEERFLOW_SKILLS_DIR=/path/to/deerflow/skills/custom ./scripts/install.sh --tool 
 
 ## 🇨🇳 中国市场原创智能体
 
-除翻译外，本项目包含 **50 个原创智能体**，专为中国平台和业务场景打造：
+除翻译外，本项目包含 **63 个原创智能体**，专为中国平台和业务场景打造：
 
 - **平台运营**：小红书、抖音、微信公众号/视频号/小程序、B站、快手、微博、知乎
 - **企业协作**：飞书、钉钉集成开发
@@ -1056,7 +1103,7 @@ DEERFLOW_SKILLS_DIR=/path/to/deerflow/skills/custom ./scripts/install.sh --tool 
 
 | 项目 | 定位 | 一句话 |
 |------|------|-------|
-| **本项目**（agency-agents-zh） ![](https://img.shields.io/github/stars/jnMetaCode/agency-agents-zh?style=flat&label=⭐) | 🎭 专家角色库 | 268 个**即插即用** AI 专家，含 53 中国原创（小红书 / 抖音 / 飞书 / 钉钉 / Qt 上位机 / 机械设计） |
+| **本项目**（agency-agents-zh） ![](https://img.shields.io/github/stars/jnMetaCode/agency-agents-zh?style=flat&label=⭐) | 🎭 专家角色库 | 276 个**即插即用** AI 专家，含 63 中国原创（小红书 / 抖音 / 飞书 / 钉钉 / Qt 上位机 / 机械设计） |
 | [agency-orchestrator](https://github.com/jnMetaCode/agency-orchestrator) | 🚀 编排引擎 | 一句话 → 268 专家协作，**几分钟出方案**（10 家 LLM / 7 免费） |
 | [superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) ![](https://img.shields.io/github/stars/jnMetaCode/superpowers-zh?style=flat&label=⭐) | 🧠 工作方法论 | 20 个 skills 教 AI 怎么干活（TDD / 调试 / 代码审查等） |
 | [ai-coding-guide](https://github.com/jnMetaCode/ai-coding-guide) | 📖 实战教程 | 66 个 Claude Code 技巧 + 9 款工具最佳实践 + 配置模板 |
@@ -1082,7 +1129,7 @@ MIT License — 自由使用，商业或个人均可。
 
 <div align="center">
 
-**268 个 AI 专家角色，18 种工具支持，即装即用**
+**276 个 AI 专家角色，18 种工具支持，即装即用**
 
 [⭐ Star 本项目](https://github.com/jnMetaCode/agency-agents-zh) · [提交 Issue](https://github.com/jnMetaCode/agency-agents-zh/issues) · [贡献代码](https://github.com/jnMetaCode/agency-agents-zh/pulls)
 
@@ -1094,4 +1141,4 @@ MIT License — 自由使用，商业或个人均可。
 
 ## ⭐ Star 趋势
 
-[![Star History Chart](https://api.star-history.com/svg?repos=jnMetaCode/agency-agents-zh&type=Date)](https://star-history.com/#jnMetaCode/agency-agents-zh&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=jnMetaCode/agency-agents-zh&type=Date)](https://star-history.dera.page/#jnMetaCode/agency-agents-zh&Date)

@@ -2,9 +2,9 @@
 
 🌐 [簡體中文](README.md) | **繁體中文** | [English (upstream)](https://github.com/msitarzewski/agency-agents)
 
-> **268 個即插即用的 AI 專家角色** — 覆蓋工程、設計、行銷、產品、遊戲、安全、GIS、金融等 20 個部門。不是通用提示詞範本，每個智能體都有獨立的人設、專業流程和可交付成果。支援 Claude Code / Cursor / Copilot 等 18 種 AI 程式設計工具。
+> **276 個即插即用的 AI 專家角色** — 覆蓋公司經營（CEO/CTO/CMO/COO/CPO/CFO）、工程、設計、行銷、產品、遊戲、安全、GIS、金融等 20 個部門。不是通用提示詞範本，每個智能體都有獨立的人設、專業流程和可交付成果。支援 Claude Code / Cursor / Copilot 等 18 種 AI 程式設計工具。
 
-[agency-agents](https://github.com/msitarzewski/agency-agents) 的中文社群版。在完整翻譯上游的基礎上，新增了 50 個中國市場原創智能體（小紅書、抖音、微信、B站、飛書、釘釘等平台運營，以及跨境電商、政務ToG、醫療合規、Qt 工業上位機、機械設計、畜禽養殖檔案核對等垂直領域）。
+[agency-agents](https://github.com/msitarzewski/agency-agents) 的中文社群版。在完整翻譯上游的基礎上，新增了 63 個中國市場原創智能體（小紅書、抖音、微信、B站、飛書、釘釘等平台運營，以及跨境電商、政務ToG、醫療合規、Qt 工業上位機、機械設計、畜禽養殖檔案核對等垂直領域）。
 
 想更好地用起來，或想為團隊打造統一的智能體工作台？[下載桌面客戶端](https://github.com/jnMetaCode/agency-orchestrator/releases/latest)（原生 App，免裝 Node，macOS / Windows / Linux），或線上體驗 [ao.aiolaola.com/experts](https://ao.aiolaola.com/experts)。
 
@@ -21,7 +21,7 @@
 
 | 🤖 AI 智能體 | 🌏 英文版翻譯 | 🇨🇳 中國市場原創 | 🧠 支援工具 | 🏢 部門 |
 |:---:|:---:|:---:|:---:|:---:|
-| **268** | **215** | **53** | **18 種** | **20 個** |
+| **276** | **213** | **63** | **18 種** | **20 個** |
 
 > 📖 **免費配套學習** → [從零學會 AI 程式設計](https://aiolaola.com/?utm_source=github&utm_campaign=agents)：180 節免費實操課 + 《AI 程式設計實戰三卷書》線上閱讀 + 實戰社群 · 把這個倉的 216 個角色裝進 Claude Code / Cursor / Codex 後配合方法論更高效 · 永久免費
 
@@ -75,13 +75,13 @@
 <tr>
 <td width="25%">
   <a href="https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh">
-    <img src="assets/sponsor-volcengine.jpeg" alt="火山引擎 — 豆包大模型限時 5 折起，程式設計模型套餐 2.5 折訂閱，支援 Kimi-K2.7、GLM-5.2 等主流模型" width="100%">
+    <img src="assets/sponsor-volcengine.jpeg" alt="火山引擎 — 火山方舟 Agent/Coding Plan 國模套餐首購 9.9 元起，支援 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、豆包等主流模型" width="100%">
   </a>
 </td>
 <td width="75%" valign="middle">
 
-感謝 [火山引擎](https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh) 贊助了本專案！火山引擎AI巔峰盛惠來襲！豆包大模型限時5折起，19元即可入手約440萬Tokens文本模型，新客首單再享AI統一節省計劃。從文本生成、圖像創作到視頻合成、語音複刻，全模態AI能力一站式配齊。開發者專屬編程模型套餐2.5折訂閱，支持Kimi-K2.7、GLM-5.2等主流模型。
-🎁 **[註冊](https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh)即領2500萬Tokens，立即訪問[火山引擎活動頁面](https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh)搶購。**
+感謝 [字節火山引擎](https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh) 贊助了本專案！火山方舟 Agent/Coding Plan 國模套餐首購 9.9 元起，支援 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、豆包等主流模型，統一 API，適配編碼與智能體開發。
+🎁 **註冊即免費領 2500 萬 Token，[立即前往火山引擎活動頁面](https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh)。**
 
 </td>
 </tr>
@@ -132,6 +132,36 @@
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="25%">
+  <a href="https://go.apimart.ai/gh-agency-agents-zh">
+    <img src="assets/sponsor-apimart.jpeg" alt="APIMart — 專注 AI 圖片/影片生成的低價 API 平台，GPT-Image-2 低至 $0.006/張，圖片與影片共用一套非同步 API" width="100%">
+  </a>
+</td>
+<td width="75%" valign="middle">
+
+感謝 [APIMart](https://go.apimart.ai/gh-agency-agents-zh) 贊助了本專案！APIMart 是專注 AI 圖片/影片生成的低價 API 平台，GPT-Image-2 低至 $0.006/張，1 美元可出圖 160+ 張。圖片、影片共用一套非同步 API，提交任務拿 ID、輪詢或回調取結果，跑批萬張不逾時、換模型不改程式碼。按量付費、無月費。🎁 **通過[此連結](https://go.apimart.ai/gh-agency-agents-zh)註冊即可開用！**
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="25%">
+  <a href="https://metaso.cn/minimax-h3/?s=gt533367">
+    <img src="assets/sponsor-metaso.jpeg" alt="秘塔科技 — 高性價比 MiniMax H3 影片生成 API 服務，768P 0.09 元/秒、2K 0.15 元/秒，相容 OpenAI 協議、支援 ComfyUI" width="100%">
+  </a>
+</td>
+<td width="75%" valign="middle">
+
+感謝[秘塔科技](https://metaso.cn/minimax-h3/?s=gt533367)贊助了本專案！秘塔科技提供高性價比的 MiniMax H3 影片生成 API 服務，適合漫劇、行銷影片及批量影片生成：768P 低至 0.09 元/秒、2K 0.15 元/秒，原生 2K 畫質，支援音畫同步。API 相容 OpenAI 協議，支援 ComfyUI，無需自行部署模型與 GPU，開箱即用。🎁 **通過[此連結](https://metaso.cn/minimax-h3/?s=gt533367)註冊，即可享有贈送額度及專屬優惠！**
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🚀 讓角色庫跑起來 · Agency Orchestrator
@@ -151,7 +181,7 @@ ao compose "幫我寫一篇關於 AI Agent 的深度分析文章" --run
 
 ## 🖼️ 線上瀏覽全部專家（無需安裝）
 
-搜尋 / 按部門篩選 / 查看與**複製每位專家的完整提示詞** —— 全部 268 位，直接在瀏覽器裡看：
+搜尋 / 按部門篩選 / 查看與**複製每位專家的完整提示詞** —— 全部 276 位，直接在瀏覽器裡看：
 
 <p align="center">
   <a href="https://ao.aiolaola.com/experts">
@@ -229,6 +259,22 @@ cp -r marketing/*.md ~/.claude/agents/
 ---
 
 ## 智能體陣容
+
+### 🏢 公司經營部
+
+一個人的公司也有高管層——定方向、做取捨、對結果負責。
+
+| 智能體 | 專長 | 適用場景 |
+|--------|------|----------|
+| [執行長 CEO](company/chief-executive-officer.md) ⭐ | 戰略方向、資源配置、組織節奏、對外敘事 | 定方向、做重大取捨、把願景翻成優先順序 |
+| [技術長 CTO](company/chief-technology-officer.md) ⭐ | 技術路線、架構決策、研發組織、技術債 | 選型評審、技術債取捨、研發效能 |
+| [產品長 CPO](company/chief-product-officer.md) ⭐ | 產品戰略、路線圖取捨、產品組織 | 需求裁決、路線圖排期、產品覆盤 |
+| [行銷長 CMO](company/chief-marketing-officer.md) ⭐ | 定位、渠道組合、營銷預算、品牌資產 | 增長打法、預算分配、品牌建設 |
+| [營運長 COO](company/chief-operating-officer.md) ⭐ | 流程、指標、執行節奏 | 把戰略落成 SOP、消滅組織摩擦 |
+| [財務長 CFO](company/chief-financial-officer.md) | 資本配置、資金運營、財務規劃、投資者關係 | 融資、預算、董事會彙報 |
+| [幕僚長](company/chief-of-staff.md) | 戰略運營、跨部門協調、OKR 追蹤 | 高管例會、組織變革推進 |
+
+> 想開一次「高管例會」？把這幾位放進同一個工作流，讓他們分別從戰略/技術/產品/增長/運營/財務視角過同一個議題——這正是 [Agency Orchestrator](https://github.com/jnMetaCode/agency-orchestrator) 的用法。
 
 ### 🛠️ 工程部
 
@@ -944,7 +990,7 @@ DEERFLOW_SKILLS_DIR=/path/to/deerflow/skills/custom ./scripts/install.sh --tool 
 
 ## 🇨🇳 中國市場原創智能體
 
-除翻譯外，本專案包含 **50 個原創智能體**，專為中國平臺和業務場景打造：
+除翻譯外，本專案包含 **63 個原創智能體**，專為中國平臺和業務場景打造：
 
 - **平臺運營**：小紅書、抖音、微信公眾號/視頻號/小程序、B站、快手、微博、知乎
 - **企業協作**：飛書、釘釘整合開發
